@@ -1,12 +1,12 @@
 # SeoScanner
 NPM module that scan HTML file for configurable SEO rules
 
-#Install
+# Install
 require Node.JS v8.4.0 or above 
 
 ``` npm install git+https://github.com/kuroro0718/SeoScanner.git ```
 
-#Usage
+# Usage
 
 ``` javascript
 const SeoScanner = require('SeoScanner');
