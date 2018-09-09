@@ -1,5 +1,5 @@
 # SeoScanner
-NPM module that scan HTML file for configurable SEO rules
+NPM module that scan HTML file with configurable SEO rules
 
 # Install
 require Node.JS v8.4.0 or above 
